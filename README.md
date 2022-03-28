@@ -25,9 +25,9 @@
 ## GitHub Analytics
 
 <div align="center">
-  <img height="205em" alt="ruineto-dev stats" src="https://github-readme-stats.vercel.app/api?username=ruineto-dev&show_icons=true&hide_border=true" />
+  <img height="205em" alt="ruineto-dev stats" src="https://github-readme-stats.vercel.app/api?username=ruyi-shen&show_icons=true&hide_border=true" />
 
-  <img height="205em" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruineto-dev" />
+  <img height="205em" alt="ruineto-dev Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruyi-shen" />
 </div>
 
 <!--
