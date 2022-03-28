@@ -1,6 +1,6 @@
-[![wakatime](https://wakatime.com/badge/user/0c094103-68b6-444a-9f05-ba265d96fcee.svg)](https://wakatime.com/@0c094103-68b6-444a-9f05-ba265d96fcee)
-
 ### Hi there 👋
+
+[![wakatime](https://wakatime.com/badge/user/0c094103-68b6-444a-9f05-ba265d96fcee.svg)](https://wakatime.com/@0c094103-68b6-444a-9f05-ba265d96fcee)
 
 <!--
 **RuYi-Shen/RuYi-Shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
