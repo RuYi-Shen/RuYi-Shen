@@ -17,6 +17,7 @@
 ## 📫 How to reach me: ...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/ru-yi-shen-774408140/)
+https://www.linkedin.com/in/ru-yi-shen-774408140/
 
 
 ## ⚡ Fun fact: ...
