@@ -1,7 +1,7 @@
 [![wakatime](https://wakatime.com/badge/user/0c094103-68b6-444a-9f05-ba265d96fcee.svg)](https://wakatime.com/@0c094103-68b6-444a-9f05-ba265d96fcee)
 ![github](https://komarev.com/ghpvc/?username=ruyi-shen&color=blue)
 
-### Hi there 👋
+### Hi there, I'm Shen 👋
 
 ## 🌱 I’m currently learning ...
 
