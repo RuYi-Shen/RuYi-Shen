@@ -14,14 +14,17 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-## 📫 How to reach me: ...
+## 📫 How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/ru-yi-shen-774408140/)
 https://www.linkedin.com/in/ru-yi-shen-774408140/
 
 
-## ⚡ Fun fact: ...
+## ⚡ Fun fact: 
 
+<p align="left"> 
+  I can't work without a nice cup of jasmine tea :tea: 
+:teacup_without_handle:
 
 ## GitHub Analytics
 
