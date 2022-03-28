@@ -24,7 +24,6 @@ https://www.linkedin.com/in/ru-yi-shen-774408140/
 
 <p align="left"> 
   I can't work without a nice cup of jasmine tea :tea: 
-:teacup_without_handle:
 
 ## GitHub Analytics
 
